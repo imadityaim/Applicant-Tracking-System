@@ -1,0 +1,22 @@
+# Quick Installation
+
+    git clone https://github.com/ekramasif/ATS_Resume_Expert.git
+
+# Create Environment
+
+    conda create -p venv python==3.11 
+
+# Environment Activate
+
+    conda activate venv/
+
+# Install All Package
+
+    pip install -r requirements.txt  
+    
+# Run The Application
+
+    streamlit run ats.py   
+
+# Note:
+You can Directly run this WebApp on VS Code.
